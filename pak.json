@@ -1,13 +1,13 @@
 {
-  "name": "Media Player",
+  "name": "Music Player",
   "type": "TOOL",
-  "description": "Media Player",
-  "author": "josegonzalez",
-  "repo_url": "https://github.com/josegonzalez/trimui-brick-media-player-pak",
-  "release_filename": "Media.Player.pak.zip",
+  "description": "Music Player with Last.fm scrobble logging",
+  "author": "ScottBaitz",
+  "repo_url": "https://github.com/ScottBaitz/trimui-brick-media-player-pak",
+  "release_filename": "Music.Player.pak.zip",
   "platforms": [
     "tg5040"
   ],
   "launch": "launch.sh",
-  "version": "0.2.1"
+  "version": "0.3"
 }
